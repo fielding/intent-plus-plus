@@ -1,0 +1,21 @@
+{
+  "name": "intent-plus-plus",
+  "description": "Artifact-driven research and iterative planning workflows for Claude Code. Preserves human intent with gated phases and Human++ annotations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Fielding",
+    "url": "https://github.com/fielding"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/fielding/intent-plus-plus",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "skills",
+    "research",
+    "planning",
+    "human-in-the-loop",
+    "intent",
+    "human++"
+  ]
+}
