@@ -52,7 +52,7 @@ In practice, a review cycle looks like:
 
 ## Inspiration and credit
 
-This plugin is heavily inspired by Boris Tane's (@boristane) workflow writeup, "How I Use Claude Code". I had been using a similar approach for awhile, but Boris did a much better job articulating it than I had. He also iterated more than I did on the plan usually. It aims to package that research-first, iterative planning loop into reusable skills and scripts.
+This plugin is heavily inspired by Boris Tane's (@boristane) workflow writeup, "How I Use Claude Code". I had been using a similar approach for awhile, but Boris did a much better job articulating it than I can. The purpose of this repository is to package that iterative planning loop into reusable skills, scripts, hooks and other tooling in the future.
 
 - https://boristane.com/blog/how-i-use-claude-code
 
